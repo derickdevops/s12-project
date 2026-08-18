@@ -1,0 +1,16 @@
+{
+  "name": "kubernetes-demo-app",
+  "version": "1.0.0",
+  "description": "A small Express application for learning Kubernetes deployments.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  },
+  "engines": {
+    "node": ">=24 <25"
+  }
+}
